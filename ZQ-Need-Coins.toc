@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: ZQ-Need-Coins
+## Version: 1.0.0
+## Author: bwalks
+## Notes: Automatically needs ZQ coins and bijous
+## DefaultState: enabled
+
+ZQ-Need-Coins-core.lua
